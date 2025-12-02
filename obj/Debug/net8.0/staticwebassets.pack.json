@@ -1,0 +1,37 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\.NetDeveloper\\MVC Projects\\Active Blog Service API\\Active Blog Service API\\wwwroot\\BlogImages\\1.png",
+      "PackagePath": "staticwebassets\\BlogImages\\1.png"
+    },
+    {
+      "Id": "D:\\.NetDeveloper\\MVC Projects\\Active Blog Service API\\Active Blog Service API\\wwwroot\\BlogImages\\tech2.png",
+      "PackagePath": "staticwebassets\\BlogImages\\tech2.png"
+    },
+    {
+      "Id": "D:\\.NetDeveloper\\MVC Projects\\Active Blog Service API\\Active Blog Service API\\wwwroot\\EmployeeImages\\mo (2).jpg",
+      "PackagePath": "staticwebassets\\EmployeeImages\\mo (2).jpg"
+    },
+    {
+      "Id": "D:\\.NetDeveloper\\MVC Projects\\Active Blog Service API\\Active Blog Service API\\wwwroot\\UserImages\\4.jpg",
+      "PackagePath": "staticwebassets\\UserImages\\4.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Active Blog Service API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Active Blog Service API.props",
+      "PackagePath": "build\\Active Blog Service API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Active Blog Service API.props",
+      "PackagePath": "buildMultiTargeting\\Active Blog Service API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Active Blog Service API.props",
+      "PackagePath": "buildTransitive\\Active Blog Service API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
